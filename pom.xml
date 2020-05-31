@@ -9,19 +9,20 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.plesk</groupId>
-	<artifactId>1</artifactId>
+	<artifactId>peters-spring-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>2</name>
-	<description>Demo project for Spring Boot</description>
+	<name>peters-spring-app</name>
+	<description>Java Spring prototype app</description>
 
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
 
 	<dependencies>
+
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter</artifactId>
+			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 
 		<dependency>

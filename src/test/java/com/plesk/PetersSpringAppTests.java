@@ -1,10 +1,10 @@
-package com.plesk1;
+package com.plesk;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApplicationTests {
+class PetersSpringAppTests {
 
 	@Test
 	void contextLoads() {
